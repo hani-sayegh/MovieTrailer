@@ -1,6 +1,6 @@
 gapi.load('client', start);
 const key = "cbfcb9d";
-const host = `http://www.omdbapi.com/?apikey=${key}&type=movie&s=`;
+const host = `https://www.omdbapi.com/?apikey=${key}&type=movie&s=`;
 const defaultSearchString = "Type movie title here!";
 
 const textField = document.querySelector("input");
