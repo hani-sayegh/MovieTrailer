@@ -1,8 +1,11 @@
-# MovieTrailer
+# [MovieTrailer](https://hani-sayegh.github.io/MovieTrailer/)
+
+## Functionality
 Search a movie name, and get the movie trailer!
 
-Done using vanilla javascript.
-
-Apis Used: Google youtube api, OMDb API
-
-For feedback please create an issue.
+## Built With
+- Vanilla javascript.
+- Html and bootstrap for css.
+- [Google youtube API](https://developers.google.com/youtube/v3/docs/search/list)
+- [OMDb API](http://www.omdbapi.com/)
+- .gif file from https://loading.io/
