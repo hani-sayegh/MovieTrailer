@@ -1,4 +1,5 @@
 # [MovieTrailer](https://hani-sayegh.github.io/MovieTrailer/)
+![Thumbnail](screenshot.png)
 
 ## Functionality
 Search a movie name, and get the movie trailer!

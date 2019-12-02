@@ -21,21 +21,6 @@ function start()
         'apiKey': 'AIzaSyDgp6_C4RztNULYnizH4Wu2_PpxmULNXWM',
         'discoveryDocs': ['https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest']
     });
-
-    // .then(() =>
-    // {
-    //     console.log(gapi.client.youtube);
-
-    //     return gapi.client.youtube.search.list({ part: 'snippet', q: 'dogs', maxResults: 25 })
-    // }).then(x =>
-    // {
-    //     console.log(x);
-
-    //     const results = x.result.items;
-    //     results.forEach(x => console.log("https://www.youtube.com/watch?v=" + x.id.videoId));
-    // });
-
-    // console.log(gapi.client.youtube.list('id,snippet', { q: 'dogs', maxResults: 25 }));
 }
 
 
