@@ -18,7 +18,7 @@ textField.onclick = ClearDefaultString;
 function start()
 {
     gapi.client.init({
-        'apiKey': 'AIzaSyAgvCTkXSuu6Hb52BsyJyA9obD8vHVfJTA',
+        'apiKey': 'AIzaSyCcpMVwAZOUpyg60O949potLgZ4yXAJfG8',
         'discoveryDocs': ['https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest']
     });
 }
